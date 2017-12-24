@@ -1,0 +1,108 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #dddddd;
+	font-family: sans-serif;
+	background-size: cover;
+
+}
+.container{
+	float: center;
+	margin: auto;
+}
+.topMenu {
+	width: 100%;
+	height: 65px;
+	background: white;
+}
+.topBorder {
+	width: 60%;
+	height: 65px;
+	float: center;
+	margin: auto;
+}
+
+#topB2{
+	float: left;
+	margin-top: 10px;
+	border-radius: 80px;
+	width: 70px;
+	height: 70px;
+}
+.menu {
+	width: 50%;
+	height: auto;
+	float: center;
+	margin-top: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.menuleft img {
+	height: 400px;
+	width: 80%;
+	margin-left: 50px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+}
+.menuleft {
+	width: 70%;
+	height: auto;
+	float: left;
+	margin: auto;
+	background: #F7F7F7;
+}
+.menuright {
+	width: 28%;
+	height: auto;
+	float: right;
+	margin: auto;
+	background: white;
+}
+.cost {
+	width: 100%;
+	height: 40px;
+	color: white;
+	padding-top: 20px;
+	border-radius: 5px;
+	background: #0098D0;
+    font-size: 20px;
+	text-align: center;
+    margin-bottom: 5px;
+}
+.phone {
+	width: 100%;
+	height: 40px;
+	border-radius: 5px;
+    background: #0098D0;
+
+	padding-top: 20px;
+	margin-bottom: 5px;
+	text-align: center;
+	color: white;
+}
+.user {
+	width: 100%;
+	height: 40px;
+	border-radius: 5px;
+	background: #0098D0;
+	color: white;
+
+	padding-top: 20px;
+	text-align: center;
+}
+.title {
+	border-top: 1px solid black;
+	margin-left: 15px;
+}
+
+.address {
+	margin-left: 15px;
+    border-bottom: 1px solid black;
+}
+.about {
+	padding: 15px;
+	margin-left: 15px;
+    font-size: 20px;
+    border-bottom: 1px solid black;
+}
